@@ -9,7 +9,7 @@ body {
 }
 
 .thumbnail-img {
-  width: 280px;
+  width: 300px;
   float: right;
   margin: 0pc 15px 15x 0px;
   border: 2px solid black;
@@ -32,7 +32,7 @@ div {
 
 header {
   font-family: "Roboto Slab", serif;
-  padding: 40px;
+  padding: 60px;
   background-color: rgb(6, 95, 95);
   color: white;
 }
@@ -40,7 +40,7 @@ nav li {
   display: inline-block;
   padding: 0px;
   margin-left: 190px;
-  font-size: 20px;
+  font-size: 30px;
   text-shadow: 4px 4px 7px lightblue;
   color: white;
 }
@@ -50,13 +50,13 @@ h1 {
   color: white;
   font-size: 60px;
 }
-h2 {
+h3 {
   line-height: 5px;
   font-family: "Roboto Slab", serif;
   font-size: 25px;
   color: black;
 }
-h3 {
+h2 {
   line-height: 20px;
   font-family: "Times New Roman", serif;
   font-size: 50px;
